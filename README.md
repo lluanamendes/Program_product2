@@ -34,3 +34,5 @@
     
   <h2>Autor</h2>
   <p>Desenvolvido como um projeto de aprendizado para manipulação de classes em Java e criação de interfaces gráficas. Curso do Neli Alves.</p>
+
+  <img src="https://github.com/lluanamendes/Program_product2/blob/main/Capturar.PNG?raw=true">
